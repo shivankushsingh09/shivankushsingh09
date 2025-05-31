@@ -197,9 +197,6 @@ I'm a passionate Full Stack Developer with expertise in building robust web appl
   <a href="https://github.com/shivankushsingh09" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://dev.to/shivankushsingh09" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
   <a href="https://discord.com/users/shivankushsingh09">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
