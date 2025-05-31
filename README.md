@@ -84,7 +84,7 @@ I'm a passionate Full Stack Developer with expertise in building robust web appl
 ### Competitive Programming
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shivankushsingh09?theme=dark)](https://leetcode.com/shivankushsingh09)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/6Ok5PEzF2H?theme=dark)](https://leetcode.com/u/6Ok5PEzF2H/)
   <!-- Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
