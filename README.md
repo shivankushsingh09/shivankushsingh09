@@ -86,6 +86,7 @@ I'm a passionate Full Stack Developer with expertise in building robust web appl
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/6Ok5PEzF2H?theme=dark)](https://leetcode.com/u/6Ok5PEzF2H/)
 
+<!--
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)
 [![CodeChef Stats](https://codechef-stats-api.vercel.app/api/shivankush09?theme=dark)](https://www.codechef.com/users/shivankush09)
 
@@ -94,6 +95,7 @@ I'm a passionate Full Stack Developer with expertise in building robust web appl
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
 [![HackerRank Stats](https://hackerrank-stats-api.vercel.app/api/shivankushsingh1?theme=dark)](https://www.hackerrank.com/profile/shivankushsingh1)
+-->
 
 <!-- Languages -->
   <!-- Languages -->
