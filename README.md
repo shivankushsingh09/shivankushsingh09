@@ -33,12 +33,6 @@ I'm a passionate Full Stack Developer with expertise in building robust web appl
 - 💡 Always open to collaborating on interesting projects
 - ⚡ Fun fact: I believe in "Code. Learn. Repeat."
 
-## 🛠️ Technology Usage
-
-*Loading technology usage statistics...*
-
-*This section is automatically updated daily with my latest technology usage across all my repositories.*
-
 ## 🛠️ Tech Stack
 
 ### Languages
