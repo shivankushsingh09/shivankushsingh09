@@ -154,11 +154,12 @@ I'm a passionate Full Stack Developer with expertise in building robust web appl
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shivankushsingh09&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔥 Recent Activity
+<!-- 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+-->
 ---
 
 ## 🌐 Connect with Me
