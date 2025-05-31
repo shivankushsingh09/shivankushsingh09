@@ -85,6 +85,17 @@ I'm a passionate Full Stack Developer with expertise in building robust web appl
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/6Ok5PEzF2H?theme=dark)](https://leetcode.com/u/6Ok5PEzF2H/)
+
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)
+[![CodeChef](https://codechef-badges.vercel.app/u/shivankushsingh09)](https://www.codechef.com/users/shivankushsingh09)
+
+![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)
+[![CodeForces](https://cf-stats.vercel.app/shivankushsingh09)](https://codeforces.com/profile/shivankushsingh09)
+
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+[![HackerRank](https://www.hackerrank.com/users/shivankushsingh09/badge.svg)](https://www.hackerrank.com/shivankushsingh09)
+
+<!-- Languages -->
   <!-- Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
