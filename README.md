@@ -121,11 +121,37 @@ I'm a passionate Full Stack Developer with a keen eye for creating elegant solut
 
 ## 🏆 Featured Projects
 
-### 1. [Project Name]
-- Full-stack web application built with React and Node.js
-- Features: [Key features]
-- Tech Stack: React, Node.js, MongoDB
-- [Live Demo](link) | [GitHub](link)
+### 1. FitBuddy - Your Personal Fitness Companion
+A comprehensive fitness tracking web application that helps users achieve their fitness goals through personalized workout plans, progress tracking, and nutrition guidance.
+
+#### Key Features:
+- **Personalized Workout Plans**: Custom workout routines based on user's fitness level and goals
+- **Progress Tracking**: Visual progress charts and statistics for workouts, weight, and measurements
+- **Nutrition Guidance**: Meal planning and calorie tracking features
+- **Social Features**: Connect with friends, share achievements, and participate in challenges
+- **Responsive Design**: Seamless experience across all devices
+- **User Authentication**: Secure login and profile management
+- **Real-time Updates**: Instant progress tracking and workout status updates
+
+#### Tech Stack:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-original.svg" alt="JWT" title="JWT" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40"/>
+  <img src="https://res.cloudinary.com/cloudinary/image/upload/v1/logo/for_white_bg/cloudinary_vertical_logo_for_white_bg.svg" alt="Cloudinary" title="Cloudinary" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
+</div>
+
+[Live Demo](link) | [GitHub](link)
 
 ### 2. [Project Name]
 - Mobile app developed using Flutter
