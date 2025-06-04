@@ -136,29 +136,29 @@ I'm a passionate Full Stack Developer with a keen eye for creating elegant solut
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://shivankush-singh.netlify.app/" target="_blank">
+  <a href="https://shivankush-singh.netlify.app/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" title="Portfolio" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/shivankushsingh/" target="_blank">
+  <a href="https://www.linkedin.com/in/shivankushsingh/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://x.com/ShivankushSingh" target="_blank">
+  <a href="https://x.com/ShivankushSingh" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X (Twitter)" title="X (Twitter)" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/shivankushsingh63/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" title="Instagram" width="40" height="40"/>
+  <a href="https://www.instagram.com/shivankushsingh63/" target="_blank" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" title="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://facebook.com/shivankushsingh" target="_blank">
+  <a href="https://facebook.com/shivankushsingh" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" title="Facebook" width="40" height="40"/>
   </a>
-  <a href="mailto:shivankushsingh09@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" title="Gmail" width="40" height="40"/>
+  <a href="mailto:shivankushsingh09@gmail.com" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" title="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://github.com/shivankushsingh09" target="_blank">
+  <a href="https://github.com/shivankushsingh09" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
   </a>
-  <a href="https://discord.com/users/shivankushsingh09">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="Discord" title="Discord" width="40" height="40"/>
+  <a href="https://discord.com/users/shivankushsingh09" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="Discord" title="Discord" width="40" height="40"/>
   </a>
 </div>
 
