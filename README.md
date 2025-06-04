@@ -155,18 +155,19 @@ A comprehensive fitness tracking web application that helps users achieve their 
 
 [Live Demo](link) | [GitHub](link)
 
-### 2. Portfolio - Professional Showcase Platform
-A comprehensive portfolio web application that serves as a dynamic showcase of my professional journey, technical expertise, and project accomplishments. Built with modern web technologies to deliver an engaging and interactive user experience.
+### 2. Portfolio - Personal Portfolio Website
+A dynamic and professional personal portfolio website that serves as a comprehensive showcase of my professional identity, skills, and achievements. This web application is designed to provide visitors with a complete overview of who I am, what I do, and what I've accomplished in my professional journey.
 
 #### Key Features:
-- **Interactive UI/UX**: Modern, responsive design with smooth animations and transitions
-- **Project Showcase**: Detailed presentation of projects with live demos and GitHub links
-- **Skills Visualization**: Interactive display of technical skills and proficiency levels
-- **Experience Timeline**: Chronological presentation of work experience and achievements
-- **Education History**: Comprehensive overview of academic background and certifications
-- **Contact Integration**: Seamless communication through integrated contact form
-- **Dynamic Content**: Easy-to-update content management system
-- **Performance Optimized**: Fast loading times and smooth navigation
+- **About Me**: Detailed personal introduction and professional background
+- **Skills Showcase**: Comprehensive display of technical skills and expertise
+- **Project Gallery**: Interactive showcase of my best work and achievements
+- **Experience Timeline**: Detailed professional journey and work history
+- **Education & Certifications**: Academic background and professional certifications
+- **Contact Section**: Easy-to-use contact form for professional inquiries
+- **Responsive Design**: Seamless experience across all devices and screen sizes
+- **Modern UI/UX**: Clean, professional design with smooth animations
+- **Performance Optimized**: Fast loading and smooth navigation experience
 
 #### Tech Uses:
 <div align="center">
