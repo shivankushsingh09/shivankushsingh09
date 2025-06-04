@@ -2,16 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Shivankush+Singh;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://shivankush-singh.netlify.app/" target="_blank" style="text-decoration: none; padding: 5px;">
+    <a href="https://shivankush-singh.netlify.app/" target="_blank" style="text-decoration: none;">
       <img src="https://www.citypng.com/public/uploads/preview/transparent-hd-internet-globe-blue-icon-701751695035228s3pzw5luvt.png?v=2025060418" alt="Portfolio" title="Portfolio" width="35" height="35"/>
     </a>
-    <a href="https://www.linkedin.com/in/shivankushsingh/" target="_blank" style="text-decoration: none;padding: 5px;">
+    <a href="https://www.linkedin.com/in/shivankushsingh/" target="_blank" style="text-decoration: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35"/>
     </a>
-    <a href="https://x.com/ShivankushSingh" target="_blank" style="text-decoration: none; padding: 5px;">
+    <a href="https://x.com/ShivankushSingh" target="_blank" style="text-decoration: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X (Twitter)" title="X (Twitter)" width="35" height="35"/>
     </a>
-    <a href="mailto:shivankushsingh09@gmail.com" style="text-decoration: none; padding: 5px;">
+    <a href="mailto:shivankushsingh09@gmail.com" style="text-decoration: none;">
       <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" title="Gmail" width="35" height="35"/>
     </a>
   </p>
