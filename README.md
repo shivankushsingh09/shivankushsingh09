@@ -137,7 +137,7 @@ I'm a passionate Full Stack Developer with a keen eye for creating elegant solut
 
 <div align="center">
   <a href="https://shivankush-singh.netlify.app/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/world/world-original.svg" alt="Portfolio" title="Portfolio" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="Portfolio" title="Portfolio" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/shivankushsingh/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
