@@ -102,6 +102,7 @@ I'm a passionate Full Stack Developer with a keen eye for creating elegant solut
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="Cloudinary" title="Cloudinary" width="40" height="40"/>
 </div>
 
 ### Deployment & Hosting
