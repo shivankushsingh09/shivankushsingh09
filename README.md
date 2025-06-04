@@ -139,7 +139,7 @@ I'm a passionate Full Stack Developer with a keen eye for creating elegant solut
   <a href="https://x.com/ShivankushSingh" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://instagram.com/shivankushsingh" target="_blank">
+  <a href="https://www.instagram.com/shivankushsingh63/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://facebook.com/shivankushsingh" target="_blank">
