@@ -109,7 +109,7 @@ I'm a passionate Full Stack Developer with a keen eye for creating elegant solut
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" title="Netlify" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" title="Vercel" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Render-00F7F7?style=for-the-badge&logo=render&logoColor=white" alt="Render" title="Render" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/Render-00F7F7?style=for-the-badge&logo=render&logoColor=white" alt="Render" title="Render" width="97.5" height="28"/>
 </div>
 
 ### Tools & Technologies
