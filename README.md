@@ -67,7 +67,7 @@ I'm a passionate Full Stack Developer with a keen eye for creating elegant solut
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" title="Spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" title="Laravel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" title="Laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" title="CodeIgniter" width="40" height="40"/>
 </div>
 
