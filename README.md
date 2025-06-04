@@ -108,7 +108,7 @@ I'm a passionate Full Stack Developer with a keen eye for creating elegant solut
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" title="Netlify" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" title="Vercel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" alt="Render" title="Render" width="40" height="40"/>
+  <img src="https://render.com/images/brand/render-logo.svg" alt="Render" title="Render" width="40" height="40"/>
 </div>
 
 ### Tools & Technologies
