@@ -108,7 +108,7 @@ I'm a passionate Full Stack Developer with a keen eye for creating elegant solut
 <div align="center">
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" title="Netlify" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" title="Vercel" width="40" height="40"/>
-  <img src="https://render.com/images/brand/render-logo.svg" alt="Render" title="Render" width="40" height="40"/>
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwMDAwMCIgZD0iTTEyIDI0QzUuMzczIDI0IDAgMTguNjI3IDAgMTJTNS4zNzMgMCAxMiAwczEyIDUuMzczIDEyIDEyLTUuMzczIDEyLTEyIDEyem0wLTIyQzYuNDg2IDIgMiA2LjQ4NiAyIDEyczQuNDg2IDEwIDEwIDEwIDEwLTQuNDg2IDEwLTEwUzE3LjUxNCAyIDEyIDJ6bTAgMThjLTQuNDExIDAtOC0zLjU4OS04LThzMy41ODktOCA4LTggOCAzLjU4OSA4IDgtMy41ODkgOC04IDh6bTAtMTRjLTMuMzE0IDAtNiAyLjY4Ni02IDZzMi42ODYgNiA2IDYgNi0yLjY4NiA2LTYtMi42ODYtNi02LTZ6bTAgMTBjLTIuMjA5IDAtNC0xLjc5MS00LTRzMS43OTEtNCA0LTQgNCAxLjc5MSA0IDQtMS43OTEgNC00IDR6Ii8+PC9zdmc+" alt="Render" title="Render" width="40" height="40"/>
 </div>
 
 ### Tools & Technologies
