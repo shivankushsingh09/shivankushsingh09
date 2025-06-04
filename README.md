@@ -33,12 +33,13 @@ I'm a passionate Full Stack Developer with a keen eye for creating elegant solut
 - 💡 **Passion**: Open source contribution and problem-solving
 - ⚡ **Fun Fact**: I can debug code while listening to classical music 🎵
 
-## 🚀 Currently Working On
+<!-- Currently Working Shall be Add in Future, so i don't remove this -->
+<!-- ## 🚀 Currently Working On
 
 - Building a full-stack e-commerce platform using Next.js and Node.js
 - Contributing to open-source projects
 - Creating a personal blog with technical tutorials
-- Developing a mobile app using Flutter
+- Developing a mobile app using Flutter -->
 
 ## 🛠️ Tech Stack
 
