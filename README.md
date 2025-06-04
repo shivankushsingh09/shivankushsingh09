@@ -151,7 +151,7 @@ A comprehensive fitness tracking web application that helps users achieve their 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
 </div>
 
-[Live Demo](link) | [GitHub](link)
+[Live Demo](link) | [GitHub](https://github.com/springboardmentor-104/FitBuddy-Team-01)
 
 ### 2. [Project Name]
 - Mobile app developed using Flutter
