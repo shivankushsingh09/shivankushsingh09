@@ -2,17 +2,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Shivankush+Singh;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://shivankush-singh.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <a href="https://shivankush-singh.netlify.app/" target="_blank" style="text-decoration: none;">
+      <img src="https://www.citypng.com/public/uploads/preview/transparent-hd-internet-globe-blue-icon-701751695035228s3pzw5luvt.png?v=2025060418" alt="Portfolio" title="Portfolio" width="40" height="40"/>
     </a>
-    <a href="https://www.linkedin.com/in/shivankushsingh/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/shivankushsingh/" target="_blank" style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
     </a>
-    <a href="https://x.com/ShivankushSingh" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <a href="https://x.com/ShivankushSingh" target="_blank" style="text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="X (Twitter)" title="X (Twitter)" width="40" height="40"/>
     </a>
-    <a href="mailto:shivankushsingh09@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="mailto:shivankushsingh09@gmail.com" style="text-decoration: none;">
+      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" title="Gmail" width="40" height="40"/>
     </a>
   </p>
 
