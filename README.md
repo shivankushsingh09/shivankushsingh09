@@ -73,6 +73,7 @@ I'm a passionate Full Stack Developer with a keen eye for creating elegant solut
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" title="Material UI" width="40" height="40"/>
   <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Ant Design" title="Ant Design" width="40" height="40"/>
+  <img src="https://picocss.com/favicon.svg" alt="PicoCSS" title="PicoCSS" width="40" height="40"/>
 </div>
 
 ### Backend Development
