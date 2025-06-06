@@ -153,7 +153,7 @@ A comprehensive fitness tracking web application that helps users achieve their 
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/></a>
 </div>
 
-[Live Demo](link) | [GitHub](link)
+[Live Demo](https://fit-buddy-theta.vercel.app/) | [GitHub](https://github.com/shivankushsingh09/FitBuddy)
 
 ### 2. Portfolio - Personal Portfolio Website
 A dynamic and professional personal portfolio website that serves as a comprehensive showcase of my professional identity, skills, and achievements. This web application is designed to provide visitors with a complete overview of who I am, what I do, and what I've accomplished in my professional journey.
