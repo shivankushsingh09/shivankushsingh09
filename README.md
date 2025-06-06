@@ -187,7 +187,7 @@ A dynamic and professional personal portfolio website that serves as a comprehen
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/></a>
 </div>
 
-[Live Demo](https://shivankush-singh-portfolio.netlify.app/) | [GitHub]([link](https://github.com/shivankushsingh09/Portfolio))
+[Live Demo](https://shivankush-singh.netlify.app/) | [GitHub]([link](https://github.com/shivankushsingh09/Portfolio))
 
 <!-- The Sample of Example is below, to how add our Featured Project in README.md File, So i don't want to Remove This -->
 <!-- ### 3. [Project Name]
