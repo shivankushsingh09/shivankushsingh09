@@ -212,10 +212,10 @@ A dynamic and professional personal portfolio website that serves as a comprehen
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shivankushsingh09&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🎯 Competitive Programming
+<!-- ## 🎯 Competitive Programming
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/6Ok5PEzF2H?theme=dark)](https://leetcode.com/u/6Ok5PEzF2H/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/6Ok5PEzF2H?theme=dark)](https://leetcode.com/u/6Ok5PEzF2H/) -->
 
 ## 🌐 Connect with Me
 
