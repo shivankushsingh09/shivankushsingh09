@@ -121,41 +121,30 @@ A comprehensive fitness tracking web application that helps users achieve their 
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/></a>
 </div>
 
-[Live Demo](https://fit-buddy-theta.vercel.app/) | [GitHub](https://github.com/shivankushsingh09/FitBuddy)
+[Live Demo](https://fitbuddy-v1.netlify.app/) | [GitHub](https://github.com/shivankushsingh09/FitBuddy)
 
-### 2. Portfolio - Personal Portfolio Website
-A dynamic and professional personal portfolio website that serves as a comprehensive showcase of my professional identity, skills, and achievements. This web application is designed to provide visitors with a complete overview of who I am, what I do, and what I've accomplished in my professional journey.
+### 2. SkyCast - A Weather App
+A modern and intuitive weather web application that provides real-time weather updates and forecasts for any location worldwide. Designed for speed, accuracy, and a seamless user experience.
 
 #### Key Features:
-- **About Me**: Detailed personal introduction and professional background
-- **Skills Showcase**: Comprehensive display of technical skills and expertise
-- **Project Gallery**: Interactive showcase of my best work and achievements
-- **Experience Timeline**: Detailed professional journey and work history
-- **Education & Certifications**: Academic background and professional certifications
-- **Contact Section**: Easy-to-use contact form for professional inquiries
-- **Responsive Design**: Seamless experience across all devices and screen sizes
-- **Modern UI/UX**: Clean, professional design with smooth animations
-- **Performance Optimized**: Fast loading and smooth navigation experience
+- **Real-Time Weather Data**: Instantly fetches current weather conditions for any city or location
+- **5-Day Forecast**: Detailed daily and hourly forecasts to help plan ahead
+- **Search by City or Location**: Easy-to-use search functionality with autocomplete
+- **Responsive Design**: Optimized for all devices, from mobile to desktop
+- **Attractive UI**: Clean, modern interface with weather icons and dynamic backgrounds
+- **Location Detection**: Option to use device location for instant local weather
+- **Error Handling**: User-friendly messages for invalid locations or network issues
+- **Fast & Lightweight**: Minimal load times and smooth transitions
 
 #### Tech Uses:
 <div align="center">
-  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="40" height="40"/></a>
-  <a href="https://cloudinary.com/" target="_blank"><img src="https://res.cloudinary.com/cloudinary/image/upload/v1/logo/for_white_bg/cloudinary_vertical_logo_for_white_bg.svg" alt="Cloudinary" title="Cloudinary" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap5" title="Bootstrap5" width="40" height="40"/>
 </div>
 
-[Live Demo](https://shivankush-singh.netlify.app/) | [GitHub](https://github.com/shivankushsingh09/Portfolio)
+[Live Demo](https://skycast-v2.netlify.app/) | [GitHub](https://github.com/shivankushsingh09/SkyCast/tree/skycast-v2)
 
 ## 📊 GitHub Stats & Activity
 
