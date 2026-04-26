@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Shivankush+Singh;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
-  <p align="">
+  <p align="center">
     <a href="https://shivankush-singh.netlify.app/" target="_blank" style="text-decoration: none;">
       <img src="https://www.citypng.com/public/uploads/preview/transparent-hd-internet-globe-blue-icon-701751695035228s3pzw5luvt.png?v=2025060418" alt="Portfolio" title="Portfolio" width="35" height="35"/>
     </a>
